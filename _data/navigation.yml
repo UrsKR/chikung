@@ -1,0 +1,9 @@
+main:
+  - title: "Kurse"
+    url: /kurse/
+  - title: "Lehrerausbildung"
+    url: /lehrer/
+  - title: "Über mich"
+    url: /urs/
+  - title: "Das Centre Qigong"
+    url: /cqg/

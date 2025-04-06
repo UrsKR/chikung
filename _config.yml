@@ -28,11 +28,13 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  urskr
 
 # Build settings
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+# theme: minimal-mistakes-jekyll
 #theme: minima
 #theme: alembic-jekyll-theme
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 site-locale: de-DE
 search: true

@@ -23,8 +23,8 @@ name: Urs Reupke
 email: ursreupke@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Centre Qigong Hamburg. Entspannung und Bewegung. Kurse und Lehrerausbildung.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/chikung" # the subpath of your site, e.g. /blog
+url: "http://urskr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  urskr
 
 # Build settings

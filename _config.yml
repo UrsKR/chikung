@@ -55,7 +55,7 @@ defaults:
       author_profile: true
       tagline: "" #else posts show their first line as tagline
       header:
-        overlay_image: /assets/images/imagesmall.jpg
+        overlay_image: /assets/images/image.png
   -
     scope:
       path: ""
@@ -64,7 +64,7 @@ defaults:
       layout: "single"
       author: "Urs"
       header:
-        overlay_image: /assets/images/imagesmall.jpg
+        overlay_image: /assets/images/image.png
 
 # Exclude from processing.
 # The following items will not be processed, by default.

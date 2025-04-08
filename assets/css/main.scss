@@ -7,10 +7,22 @@ search: false
 
 $link-color: red;
 $background-color: #F9FFD5;
+$header-color: darkgreen;
 
-h3{
-  color: darkgreen;
+h3 {
+  color: $header-color;
 }
+
+$intro-transition  : none;
+$global-transition : none;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.page__hero--overlay .page__title, .page__hero--overlay .page__lead {
+  color: $header-color;
+}
+
+.page__footer {
+  background-color: $background-color;
+}

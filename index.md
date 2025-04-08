@@ -1,7 +1,5 @@
 ---
 layout: single
-header:
-  overlay_image: /assets/images/kick.jpg
 ---
 Möchtest Du Körper und Geist entspannen? Möchtest Du auch im Alltag loslassen können, anstatt Dich Deinem Stress zu ergeben? Plagt Dich der Rücken, schmerzt Dein Kopf?
 Dann komm, und lerne Qigong und Tai-Chi!

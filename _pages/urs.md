@@ -1,9 +1,6 @@
 ---
-layout: single
 title: Über mich
 permalink: /urs/
-header:
-  overlay_image: /assets/images/kick.jpg
 ---
 Ich bin Urs Reupke und ich liebe Qigong.
 

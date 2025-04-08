@@ -19,6 +19,10 @@ $global-transition : none;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+.page__hero--overlay {
+  background-position: right;
+}
+
 .page__hero--overlay .page__title, .page__hero--overlay .page__lead {
   color: $header-color;
 }

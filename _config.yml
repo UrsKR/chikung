@@ -45,16 +45,26 @@ include: ["_pages"]
 
 defaults:
   # _posts
-  - scope:
+  - 
+    scope:
       path: ""
       type: posts
     values:
       layout: single
+      author: "Urs"
       author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      tagline: "" #else posts show their first line as tagline
+      header:
+        overlay_image: /assets/images/imagesmall.jpg
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "single"
+      author: "Urs"
+      header:
+        overlay_image: /assets/images/imagesmall.jpg
 
 # Exclude from processing.
 # The following items will not be processed, by default.

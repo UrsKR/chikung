@@ -1,9 +1,6 @@
 ---
-layout: single
 title: Lehrerausbildung
 permalink: /lehrer/
-header:
-  overlay_image: /assets/images/kick.jpg
 ---
 Die Standorte des Centre Qigong bieten jedes Jahr eine gemeinsame Qigong-Lehrerausbildung an. Die Ausbildung ist der Start auf Deinem Weg als Qigong-Lehrer.
 

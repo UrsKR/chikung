@@ -1,10 +1,7 @@
 ---
-layout: single
 title: Kurse
 tagline: Entspannung und Bewegung
 permalink: /kurse/
-header:
-  overlay_image: /assets/images/kick.jpg
 ---
 In den fortlaufenden Kursen lernst Du die Grundlagen der Entspannung im Qigong, Fortgeschrittene Übungsreihen oder die 36er Tai-Chi-Form. Du kannst jederzeit einsteigen.
 

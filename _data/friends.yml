@@ -1,13 +1,13 @@
 friends:
   - name: Gu Dang Center Niebüll
-    pin: 25899
+    zip: 25899
     city: Niebüll
     web: https://taichi-nf.de
   - name: Tai Chi Chuan & Qigong-Dao
-    pin: 66953
+    zip: 66953
     city: Pirmasens
     web: http://taichichuan-qigong-dao.de
   - name: Qigong Baden-Baden
-    pin: 76534
+    zip: 76534
     city: Baden-Baden
     web: https://qigong-baden-baden.de

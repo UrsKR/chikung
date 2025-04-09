@@ -10,7 +10,7 @@ Bernhards Lehrerschüler haben in ganz Deutschland eigene Schulen eröffnet, dam
 Hier findest du uns:
 
 {% for location in site.data.locations.locations %}
-  {{ location.pin }} **{{ location.city }}** – {{ location.name }}  
+  {{ location.zip }} **{{ location.city }}** – {{ location.name }}  
   {% if location.web %} <{{ location.web }}>  
   {% elsif location.mail %} <{{location.mail}}>
   {% else %} {{ location.phone }}
@@ -22,6 +22,6 @@ Hier findest du uns:
 Neben unseren Standorten gibt es noch einige weitere Schulen, die ich empfehlen kann: Schulen meiner Wegbegleiter und Schulen, die ich selbst besucht habe.
 
 {% for friend in site.data.friends.friends %}
-{{ friend.pin }} **{{ friend.city }}** – {{ friend.name }}  
+{{ friend.zip }} **{{ friend.city }}** – {{ friend.name }}  
 <{{ friend.web }}>
 {% endfor %}

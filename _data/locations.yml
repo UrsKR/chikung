@@ -1,92 +1,92 @@
 locations:
   - name: Bianca Schubert
-    pin: "06112"
+    zip: "06112"
     city: Halle/Saale
     mail: qigong-halle@gmx.de
   - name: Diana Hanuschkiewitz
-    pin: 34434
+    zip: 34434
     city: Borgentreich
     street: Liboriweg 14
     phone: +49 172 5784025
     mail: qigong-diana@gmx.de
     web: https://borgentreich.centre-qigong.de
   - name: Elvira Herbig
-    pin: 36132
+    zip: 36132
     city: Fürsteneck
     street: Am Schlossgarten 10
     phone: +49 171 5746480
     mail: elvira.herbig@freenet.de
     web: https://fuersteneck.centre-qigong.de
   - name: Bianca Adolf
-    pin: 36148
+    zip: 36148
     city: Kalbach
     street: Am Bildstock 8
     phone: +49 151 10078238
     mail: qigong-bianca@t-online.de
     web: https://kalbach.centre-qigong.de
   - name: Tanja Zimmer-Link
-    pin: 36396
+    zip: 36396
     city: Steinau
     street: Schrumpfmühle 0
     phone: +49 178 1909142
     mail: kontakt@centre-qigong-steinau.de
     web: https://centre-qigong-steinau.de
   - name: Tim Schmidt
-    pin: 38100
+    zip: 38100
     city: Braunschweig
     street: Okerstraße 16
   - name: Bastian Hamm
-    pin: 46537
+    zip: 46537
     city: Dinslaken
     street: Selmastraße 41
     phone: +49 151 40312958
     mail: info@qigong-dinslaken.de
     web: http://centre-qigong-dinslaken.de
   - name: Alexander Schell
-    pin: 63931
+    zip: 63931
     city: Kirchzell
     street: In den Brunnenäckern 17
     phone: +49 9373 6345369
     mail: info@naturheilpraxis-schell.de
     web: https://qigong-miltenberg.de
   - name: Joachim Doll-Grahm
-    pin: 69234
+    zip: 69234
     city: Dielheim 
     street: Gartenstraße 25
     phone: +49 157 87909326
     mail: J.Grahm@gmx.net
   - name: Wolfgang und Heidi Ebinger
-    pin: 71116
+    zip: 71116
     city: Gärtringen
     street: Kelterstra0e 2
     phone: +49 7034 21869
     mail: whebinger@t-online.de
     web: https://gaertringen.centre-qigong.de
   - name: Björn Schwandner und Carmen Heilmann
-    pin: 74321
+    zip: 74321
     city: Bietigheim-Bissingen
     web: https://bietigheim-bissingen.centre-qigong.de
   - name: Britta Raatschen
-    pin: 75015
+    zip: 75015
     city: Bretten
     street: Pforzheimer Straße 46
     phone: +49 7252 972172
     mail: praxis@logopaedie-raatschen.de
     web: https://centre-qigong-bretten.de
   - name: Anne-Grit Adam
-    pin: 76646
+    zip: 76646
     city: Bretten
     street: Schubertweg 5
     phone: +49 7251 9379712
     mail: info@centre-qigong-bruchsal.de
     web: https://centre-qigong-bruchsal.de
   - name: Rosa Rossi
-    pin: 82229
+    zip: 82229
     city: Seefeld
     street: Inningerstraße 19
     phone: +49 151 27589750
     mail: toccasana@online.de
     web: https://seefeld.centre-qigong.de
   - name: Kerstin Krage
-    pin: CH-8008
+    zip: CH-8008
     city: Zürich

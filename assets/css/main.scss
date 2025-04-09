@@ -5,9 +5,14 @@ search: false
 
 @charset "utf-8";
 
+@font-face {
+  font-family: Garamond;
+  src: url("../fonts/Cormorant-Regular.otf") format("opentype");
+}
+
 $link-color: red;
 $background-color: #F9FFD5;
-$header-color: darkgreen;
+$header-color: #043F01;
 
 h3 {
   color: $header-color;
@@ -26,6 +31,10 @@ $global-transition : none;
 
 .page__hero--overlay .page__title, .page__hero--overlay .page__lead {
   color: $header-color;
+  font-family: Garamond;
+  text-shadow: none;
+  font-weight: normal;
+  font-size: 2em;
 }
 
 .page__footer {

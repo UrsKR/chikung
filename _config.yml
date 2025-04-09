@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Centre Qigong Hamburg
+title: Centre Qi Gong Hamburg
 name: Urs Reupke
 email: ursreupke@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Centre Qigong Hamburg. Entspannung und Bewegung. Kurse und Lehrerausbildung.
+  Centre Qi Gong Hamburg. Entspannung und Bewegung. Kurse und Lehrerausbildung.
 baseurl: "/chikung" # the subpath of your site, e.g. /blog
 url: "http://urskr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  urskr

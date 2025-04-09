@@ -1,12 +1,12 @@
 ---
-title: Das Centre Qigong
+title: Das Centre Qi Gong
 permalink: /cqg/
 ---
 
-Das Centre Qigong ist das Europäische Zentrum zur Ausbildung und Erforschung des Medizinischen Qigong. Das erste Centre Qigong entstand in Karlsruhe, dort unterrichtete Bernhard Maier. Mittlerweile ist seine Schule umgezogen nach Germersheim.
+Das Centre Qi Gong ist das Europäische Zentrum zur Ausbildung und Erforschung des Medizinischen Qi Gong. Das erste Centre Qi Gong entstand in Karlsruhe, dort unterrichtete Bernhard Maier. Mittlerweile ist seine Schule umgezogen nach Germersheim.
 
-### Standorte des Centre Qigong
-Bernhards Lehrerschüler haben in ganz Deutschland eigene Schulen eröffnet, damit auch Du lernen kannst, Dich mit Qigong zu entspannen.
+### Standorte des Centre Qi Gong
+Bernhards Lehrerschüler haben in ganz Deutschland eigene Schulen eröffnet, damit auch Du lernen kannst, Dich mit Qi Gong zu entspannen.
 Hier findest du uns:
 
 {% for location in site.data.locations.locations %}

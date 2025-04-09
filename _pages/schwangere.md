@@ -15,8 +15,8 @@ Ab dem
 14.2.2020   Fortlaufender Kurs „Qi Gong für Schwangere“             
 Der Kurs findet jeden Freitag um 18:30 Uhr statt.
 
-Durch Schnupperstunde und Kurs führe ich mit Sabrina Spiegel, die seit mehreren Jahren Qigong und Taichi übt und dieses Jahr ihr erstes Kind erwartet.  
-Wir üben ausgesuchte Qigong-Bewegungen für Rücken, Bauch und Mitte, die Dir im Alltag helfen, Körper und Geist zu entspannen, auch mit wachsendem Bauch Deine gesunde Haltung zu bewahren und wiederkehrende Spannung und Schmerzen zu vermeiden.   
+Durch Schnupperstunde und Kurs führe ich mit Sabrina Spiegel, die seit mehreren Jahren Qi Gong und Taichi übt und dieses Jahr ihr erstes Kind erwartet.  
+Wir üben ausgesuchte Qi Gong-Bewegungen für Rücken, Bauch und Mitte, die Dir im Alltag helfen, Körper und Geist zu entspannen, auch mit wachsendem Bauch Deine gesunde Haltung zu bewahren und wiederkehrende Spannung und Schmerzen zu vermeiden.   
 Bitte bring ein Sitz-oder Yoga-Kissen mit, wir werden im Stehen und im Sitzen üben.
 Teilnehmen können alle, auch wenn sie nicht schwanger sind – also bring gern Deinen Partner oder eine Freundin mit.  
 

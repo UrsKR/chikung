@@ -73,6 +73,14 @@ locations:
     phone: +49 7252 972172
     mail: praxis@logopaedie-raatschen.de
     web: https://centre-qigong-bretten.de
+  - name: Centre Qi Gong Karlsruhe
+    zip: 76131
+    city: Karlsruhe
+  - name: Karen Maria Stau
+    zip: 76135
+    city: Karlsruhe    
+    phone: +49 177 8182888
+    mail: kwshk@gmx.de
   - name: Anne-Grit Adam
     zip: 76646
     city: Bretten
@@ -97,3 +105,5 @@ locations:
   - name: Kerstin Krage
     zip: CH-8008
     city: Zürich
+
+

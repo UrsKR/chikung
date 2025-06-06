@@ -5,5 +5,4 @@ _site
 vendor
 Journal
 /assets/Wordpress
-Gemfile.lock
 .DS_Store

@@ -27,14 +27,18 @@ $global-transition : none;
 .page__hero--overlay {
   background-position: right;
   background-size: auto;
-}
-
-.page__hero--overlay .page__title, .page__hero--overlay .page__lead {
   color: $header-color;
   font-family: Garamond;
   text-shadow: none;
   font-weight: normal;
+}
+
+.page__hero--overlay .page__title {
   font-size: 2em;
+}
+
+.page__hero--overlay .page__lead {
+  font-size: 1em;
 }
 
 .page__footer {

@@ -3,7 +3,7 @@ title: Kurse
 tagline: Entspannung und Bewegung
 permalink: /kurse/
 ---
-In den fortlaufenden Kursen lernst Du die Grundlagen der Entspannung im Qi Gong, Fortgeschrittene Übungsreihen oder die 36er Tai-Chi-Form. Du kannst jederzeit einsteigen.
+In den fortlaufenden Kursen lernst Du die Grundlagen der Entspannung im Qi Gong, Fortgeschrittene Übungsreihen oder die 36er Tai-Chi-Form.
 
 ###### Zeit 
 Jeden Donnerstag entspannst Du Dich mit  

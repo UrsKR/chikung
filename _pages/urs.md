@@ -15,4 +15,4 @@ Ich habe 2009 und 2010 meine Ausbildung zum Qi Gong-Lehrer abgeschlossen und dan
 Ich fahre mehrmals im Jahr, um mit meinen Lehrern zu üben und mich selbst korrigieren zu lassen. Außerdem besuche ich regelmäßig Kurse anderer Lehrer, insbesondere von Sifu John Ding.
 
 ### Und außerdem…
-Mein Studium der Informatik hat mich zu meinem Beruf als Führungs-Trainer und Management-Coach geführt. Hier lerne ich jeden Tag aufs Neue, wie wichtig die Gedanken des entspannten Loslassens, von Harmonie und Ruhe für Beruf und Leben sind.
+Mein Studium der Informatik hat mich zu meiner Arbeit als Führungs-Trainer und Management-Coach geführt. Bei meiner Arbeit mit meinen Kollegen der [it-agile GmbH](www.it-agile.de) lerne ich jeden Tag aufs Neue, wie wichtig die Gedanken des entspannten Loslassens, von Harmonie und Ruhe für Beruf und Leben sind.

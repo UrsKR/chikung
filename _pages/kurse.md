@@ -11,7 +11,7 @@ Jeden Donnerstag entspannst Du Dich mit
 **Tai Chi** von 20:15 – 21:15 Uhr.
 
 ###### Ort
-Wir treffen uns in der Schulstraße 9 in 25469 Halstenbek in den Räumen der VHS Halstenbek. Anmeldung und Bezahlung erfolgt über die VHS. Probestunden sind jederzeit auch unangemeldet möglich.
+Wir treffen uns in der [Schulstraße 9 in 25469 Halstenbek](https://www.openstreetmap.org/node/4360459232#map=19/53.635656/9.841563) in den Räumen der VHS Halstenbek. [Anmeldung und Bezahlung](https://www.vhs-halstenbek.de/suche?tx_itemkgconnect_search%5Bsword%5D=urs+reupke&) erfolgt über die VHS. Probestunden sind jederzeit auch unangemeldet möglich.
 
 ###### Inhalt
 Im Qi Gong-Kurs üben wir über das Jahr verschiedene Übungsreihen wie die 8 Brokate, die 18 Harmonien, Gesundheitsschützende Qi Gong oder die 15 Ausdrucksformen des Tai-Chi Qi-Gong.

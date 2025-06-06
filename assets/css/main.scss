@@ -27,6 +27,9 @@ $global-transition : none;
 .page__hero--overlay {
   background-position: right;
   background-size: auto;
+}
+
+@mixin page-headers {
   color: $header-color;
   font-family: Garamond;
   text-shadow: none;
@@ -34,10 +37,12 @@ $global-transition : none;
 }
 
 .page__hero--overlay .page__title {
+  @include page-headers;
   font-size: 2em;
 }
 
 .page__hero--overlay .page__lead {
+  @include page-headers;
   font-size: 1em;
 }
 

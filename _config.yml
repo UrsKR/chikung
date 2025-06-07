@@ -43,6 +43,13 @@ lunr:
 
 include: ["_pages"]
 
+footer:
+  links:
+    - label: "Impressum"
+      url: "/impressum"
+    - label: "Datenschutz"
+      url: "/ds"
+
 defaults:
   # _posts
   - 

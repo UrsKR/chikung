@@ -1,4 +1,8 @@
-Datenschutzerklärung
+---
+title: Datenschutz
+permalink: /ds/
+---
+## Datenschutzerklärung
 Einfache Version für Sportsfreunde
 
 Datenschutz ist mir wichtig. So wichtig, dass ich auf dieser Website lediglich die 2 Cookies verwende, die WordPress unvermeidbar benutzt, um Ihre Vorlieben zu speichern.

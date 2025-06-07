@@ -46,8 +46,10 @@ include: ["_pages"]
 footer:
   links:
     - label: "Impressum"
+      icon: "fa-solid fa-file-contract"
       url: "/impressum"
     - label: "Datenschutz"
+      icon: "fa-solid fa-shield"
       url: "/ds"
 
 defaults:

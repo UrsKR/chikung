@@ -26,7 +26,7 @@ $global-transition : none;
 
 .page__hero--overlay {
   background-position: right;
-  background-size: auto;
+  background-size: contain;
 }
 
 @mixin page-headers {

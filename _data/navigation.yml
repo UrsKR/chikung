@@ -9,13 +9,3 @@ main:
     url: /urs/
   - title: "Das Centre Qi Gong"
     url: /cqg/
-
-recents:
-  - title: News
-    children:
-      - title: "Sommerprogramm und Kurse im Herbst"
-        url: /2025/06/06/TaiChiQiGongHerbst.html
-      - title: "Neuer Kurs Mitte Juni"
-        url: /2025/05/02/Verlaengerung.html
-      - title: "Lehrerausbildung 2025"
-        url: /2025/06/05/Lehrer2025.html

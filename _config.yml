@@ -7,7 +7,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://centre-qigong-hamburg.de" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  urskr
 
-remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+remote_theme: "mmistakes/minimal-mistakes@4.27.1"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
@@ -41,8 +41,6 @@ defaults:
       tagline: "" #else posts show their first line as tagline
       header:
         overlay_image: /assets/images/image.png
-      sidebar:
-        nav: "recents"
   -
     scope:
       path: ""
@@ -52,8 +50,6 @@ defaults:
       author: "Urs"
       header:
         overlay_image: /assets/images/image.png
-      sidebar:
-        nav: "recents"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

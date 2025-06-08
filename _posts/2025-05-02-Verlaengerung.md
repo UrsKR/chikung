@@ -1,6 +1,7 @@
 ---
 title: Neuer Kurs ab 12.6.
 date: 2025-05-02
+excerpt: Jeden Donnerstag, 19:15, bis zu den Sommerferien
 ---
 Nach dem Kurs ist vor dem Kurs, und das heißt:
 Die Qi Gong-Runde in der VHS Halstenbek geht in die Verlängerung und läuft weiter bis zu den Sommerferien.

@@ -6,7 +6,7 @@ permalink: /impressum/
 Urs Reupke, Eidelstedter Weg 27, 25469 Halstenbek
 
 ### Kontakt
-Telefon: +49 151 19539071
+Telefon: +49 151 19539071  
 E-Mail: ursreupke@gmail.com
 
 ### Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV

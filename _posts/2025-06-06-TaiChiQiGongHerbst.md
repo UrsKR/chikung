@@ -1,7 +1,7 @@
 ---
-title:  Neue Kurse ab September
+title: Neue Kurse ab 18.9.
 date: 2025-06-06
-excerpt: Ab 18.9. Jetzt auch Tai Chi lernen!
+excerpt: Mehr Qi Gong. Jetzt auch Tai Chi lernen!
 ---
 Im September geht es dann an gewohnter Stelle weiter:
 Ab dem 18.9. üben wir wieder um 19:15 Qi Gong und um 20:15 [Tai Chi](https://www.vhs-halstenbek.de/p/gesundheit-fitness-und-ernaehrung/yoga-pilates-entspannung/tai-chi-fuer-einsteiger-innen-521-C-252-3117A).

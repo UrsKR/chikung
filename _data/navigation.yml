@@ -7,5 +7,7 @@ main:
     url: /lehrer/
   - title: "Über mich"
     url: /urs/
+  - title: "Übungsreihen"
+    url: /uebungsreihen/
   - title: "Das Centre Qi Gong"
     url: /cqg/

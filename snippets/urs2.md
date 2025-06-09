@@ -1,1 +1,0 @@
-Qi Gong hat mir vor vielen Jahren ein neues, klareres Körpergefühl und viel Entspannung gegeben. In meinem Unterricht möchte ich diese Entspannung weitergeben, Gesundheit fördern und Freude an der langsamen Bewegung mit anderen teilen.

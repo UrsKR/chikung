@@ -15,6 +15,8 @@ Von 2010 bis 2012 habe ich den Unterricht in Karlsruhe als Lehrer für Qigong un
 
 Ende 2012 bin ich mit meiner Frau nach Hamburg gezogen und habe den nördlichsten Standort des Centre Qi Gong eröffnet. Seitdem unterrichte ich hier Qi Gong und Tai Chi angeboten.
 
+Nach einer Pause während der Corona-Pandemie unterrichte ich jetzt in Halstenbek am Rande Hamburgs.
+
 ### Ich bilde Lehrer aus
 Seit 2013 unterstütze ich außerdem die Qi-Gong-Lehrerausbildung meiner alten Karlsruher Schule. Ich habe dazu einige Jahre Module für Lehrerschüler aus Norddeutschland angeboten, vor allem aber unterstütze ich die Retreats, die im Rahmen der Ausbildung mehrmals jährlich stattfinden.  
 Die Retreats dienen gleichzeitig meiner Fortbildung und Korrektur. Zur Fortbildung besuche ich außerdem meine Lehrer – v.a. Bernhard Maier aus Karlsruhe und Sifu John Ding aus London – regelmäßig, mindestens jährlich.

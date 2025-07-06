@@ -25,4 +25,5 @@ Die Retreats dienen gleichzeitig meiner Fortbildung und Korrektur. Zur Fortbildu
 
 ### Wie ich mein Leben verbringe
 Mein Studium der Informatik hat mich auf meinen Weg als Führungstrainer, Strategieberater und Managementcoach geführt. Bei meiner Arbeit für die und mit der [it-agile GmbH](https://it-agile.de) lerne ich jeden Tag aufs Neue, wie wichtig die Gedanken des entspannten Loslassens, von Harmonie und Ruhe für Beruf und Leben sind.  
-Auch beruflich unterrichte ich also: Ich leite Seminar zu Unternehmensführung, -strategie und Produktentwicklung, begleite Gruppen in Workshops zu diesen Feldern und berate Gruppen und einzelne Führungskräfte dazu.
+Auch beruflich unterrichte ich also: Ich leite Seminar zu Unternehmensführung, -strategie und Produktentwicklung, begleite Gruppen in Workshops zu diesen Feldern und berate Gruppen und einzelne Führungskräfte dazu.  
+Mehr über mich liest du auf meiner [privaten Website](https://reupke.online). Falls du gerne kochst, wirf einen Blick in meine [Rezeptesammlung](https://recipes.reupke.online).

@@ -4,7 +4,7 @@ date: 2025-06-06
 excerpt: Jede Woche Qi Gong und Tai Chi!
 tags: frontpage
 ---
-Am 18. September, zwei Wochen nach den Sommerferien, beginnen die neuen Kurse in Halstenbek:  
+Am 18. September, zwei Wochen nach den Sommerferien, beginnen die neuen Kurse in Halstenbek. 
 Wir üben Qi Gong mit den 15 Ausdrucksformen und lernen etwas ganz besonderes: Die 36er-Tai Chi-Form – einerseits Qi Gong in Bewegung, andererseits der entspannte Weg zur Selbstverteidigung.
 
 Die Anmeldung über die VHS Halstenbek ist ab sofort geöffnet:  

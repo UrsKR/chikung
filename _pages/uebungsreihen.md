@@ -22,7 +22,7 @@ Die 18 Harmonien sind eine moderne Übungsreihe aus 18 sanften Bewegungen. Profe
 [Übungsblatt zum Download](/assets/downloads/QiGong18Harmonien.pdf)
 
 ### Die 15 Ausdrucksformen
-Die 15 Ausdrucksformen des Tai Chi-Qi Gong sind eine ewegte Übungsreihe für den ganzen Körper. Inspiriert von den typischen Bewegungen des Tai Chi lernen wir in diesen 15 Bewegungen Körpergefühl, Haltung und – mehr als in anderen Reihen Übungsreihen – Gleichgewicht.
+Die 15 Ausdrucksformen des Tai Chi-Qi Gong sind eine ewegte Übungsreihe für den ganzen Körper. Inspiriert von den typischen Bewegungen des Tai Chi lernen wir in diesen 15 Bewegungen Körpergefühl, Haltung und – mehr als in anderen Reihen Übungsreihen – Gleichgewicht.  
 [Übungsblatt zum Download](/assets/downloads/QiGong15Ausdrucksformen.pdf)
 
 ## Tai Chi
@@ -30,4 +30,5 @@ Tai Chi Chuan ist eine traditionelle chinesische Bewegungs- und Kampfkunst. Es v
 
 ### Die 36er-Tai Chi-Form
 Die 36er Tai Chi-Form ist eine Variante des traditionellen Yang-Stils. Die Form ist für Einsteiger konzipiert, leicht erlernbar und in kurzer Zeit zu durchlaufen. Gleichzeitig vermittelt sie die Grundideen und -bewegungen des Tai Chi.  
-[Übungsblatt zum Download (Deutsch)](/assets/downloads/TaiChi36FormDt.pdf) [Übungsblatt zum Download (Englisch)](/assets/downloads/TaiChi36Form.pdf)
+[Übungsblatt zum Download (Deutsch)](/assets/downloads/TaiChi36FormDt.pdf)  
+[Übungsblatt zum Download (Englisch)](/assets/downloads/TaiChi36Form.pdf)

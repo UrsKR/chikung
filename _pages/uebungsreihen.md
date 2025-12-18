@@ -23,6 +23,7 @@ Die 18 Harmonien sind eine moderne Übungsreihe aus 18 sanften Bewegungen. Profe
 
 ### Die 15 Ausdrucksformen
 Die 15 Ausdrucksformen des Tai Chi-Qi Gong sind eine ewegte Übungsreihe für den ganzen Körper. Inspiriert von den typischen Bewegungen des Tai Chi lernen wir in diesen 15 Bewegungen Körpergefühl, Haltung und – mehr als in anderen Reihen Übungsreihen – Gleichgewicht.
+[Übungsblatt zum Download](/assets/downloads/QiGong15Ausdrucksformen.pdf)
 
 ## Tai Chi
 Tai Chi Chuan ist eine traditionelle chinesische Bewegungs- und Kampfkunst. Es vereint auf sanfte Weise Bewegung, Entspannung und körperliches Training. Tai Chi schult Körpergefühl, Haltung und Selbstbewusstsein und hilft durch meditative Praxis zu Ausgeglichenheit und Entspannung.   

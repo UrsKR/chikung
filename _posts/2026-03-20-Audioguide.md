@@ -5,7 +5,7 @@ excerpt: Wie im Unterricht!
 tags: frontpage
 ---
 Auf vielfachen Wunsch habe ich die Tai Chi-Form zum mitüben eingesprochen.  
-Auf der Seite mit den [[uebungsreihen]] findest du zwei Downloads:
+Bei den [Übungsreihen](https://centre-qigong-hamburg.de/uebungsreihen/#die-36er-tai-chi-form) findest du zwei Downloads:
 
 * Tai Chi Einfach: Nur die Form.
 * Tai Chi Detailliert: Form mit Zwischenbewegungen, Schritten und Gewichtsverlagerungen. 

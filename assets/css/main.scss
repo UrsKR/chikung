@@ -50,3 +50,31 @@ $global-transition : none;
 .page__footer {
   background-color: $background-color;
 }
+
+@mixin fontawesome-icon {
+  font-family: FontAwesome;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+$pdficon: '\f0ac';
+$mp3icon: '\f0ac';
+
+.pdfdoc {
+  &:before {
+    @include fontawesome-icon();
+    color: #333;
+    content: $pdficon;
+    margin-right: 6px;
+  }
+}
+
+.mp3audio {
+  &:before {
+    @include fontawesome-icon();
+    color: #333;
+    content: $mp3icon;
+    margin-right: 6px;
+  }
+}

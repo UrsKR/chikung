@@ -34,9 +34,9 @@ Tai Chi Chuan ist eine traditionelle chinesische Bewegungs- und Kampfkunst. Es v
 Die 36er Tai Chi-Form ist eine Variante des traditionellen Yang-Stils. Die Form ist für Einsteiger konzipiert, leicht erlernbar und in kurzer Zeit zu durchlaufen. Gleichzeitig vermittelt sie die Grundideen und -bewegungen des Tai Chi. 
 
 #### Übungsblätter
-* [Deutsch](/assets/downloads/TaiChi36FormDt.pdf){: .pdfdoc }
-* [Englisch](/assets/downloads/TaiChi36Form.pdf){: .pdfdoc } 
+[Deutsch](/assets/downloads/TaiChi36FormDt.pdf){: .pdfdoc }  
+[Englisch](/assets/downloads/TaiChi36Form.pdf){: .pdfdoc } 
 
 #### Audioanleitungen (Deutsch)
-* [Nur die Form](/assets/downloads/audio/TaiChiBasic.mp3){: .mp3audio }
-* [Form, Zwischenbewegungen und Schritte](/assets/downloads/audio/TaiChiDetailed.mp3){: .mp3audio }
+[Nur die Form](/assets/downloads/audio/TaiChiBasic.mp3){: .mp3audio }  
+[Form, Zwischenbewegungen und Schritte](/assets/downloads/audio/TaiChiDetailed.mp3){: .mp3audio }

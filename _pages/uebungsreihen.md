@@ -1,6 +1,8 @@
 ---
 title: Übungsreihen
 permalink: /uebungsreihen/
+toc: true
+toc_label: Übungsreihen
 ---
 ## Qi Gong
 Qi Gong ist die tra­di­tionel­le chi­nesi­sche Kunst der Bewegung und des Um­gangs mit der Lebens­ener­gie (Chi bzw. Qi). Wer Qi Gong übt, wird aus­ge­gli­chener, ge­sün­der, vi­ta­ler und verfügt über mehr Le­bens­freu­de, Ener­gie sowie in­nere Ruhe.  
@@ -32,4 +34,4 @@ Tai Chi Chuan ist eine traditionelle chinesische Bewegungs- und Kampfkunst. Es v
 Die 36er Tai Chi-Form ist eine Variante des traditionellen Yang-Stils. Die Form ist für Einsteiger konzipiert, leicht erlernbar und in kurzer Zeit zu durchlaufen. Gleichzeitig vermittelt sie die Grundideen und -bewegungen des Tai Chi.  
 [Übungsblatt zum Download (Deutsch)](/assets/downloads/TaiChi36FormDt.pdf)  
 [Übungsblatt zum Download (Englisch)](/assets/downloads/TaiChi36Form.pdf)  
-[Audioanleitung Einfach (Deutsch)](/assets/downloads/audio/TaiChiBasic.mp3)   [Audioanleitung Detailliert (Deutsch)](/assets/downloads/audio/TaiChiDetailed.mp3)
+[Audioanleitung Einfach (Deutsch)](/assets/downloads/audio/TaiChiBasic.mp3)  [Audioanleitung Detailliert (Deutsch)](/assets/downloads/audio/TaiChiDetailed.mp3)

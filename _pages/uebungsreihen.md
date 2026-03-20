@@ -31,7 +31,12 @@ Die 15 Ausdrucksformen des Tai Chi-Qi Gong sind eine ewegte Übungsreihe für de
 Tai Chi Chuan ist eine traditionelle chinesische Bewegungs- und Kampfkunst. Es vereint auf sanfte Weise Bewegung, Entspannung und körperliches Training. Tai Chi schult Körpergefühl, Haltung und Selbstbewusstsein und hilft durch meditative Praxis zu Ausgeglichenheit und Entspannung.   
 
 ### Die 36er-Tai Chi-Form
-Die 36er Tai Chi-Form ist eine Variante des traditionellen Yang-Stils. Die Form ist für Einsteiger konzipiert, leicht erlernbar und in kurzer Zeit zu durchlaufen. Gleichzeitig vermittelt sie die Grundideen und -bewegungen des Tai Chi.  
-[Übungsblatt zum Download (Deutsch)](/assets/downloads/TaiChi36FormDt.pdf)  
-[Übungsblatt zum Download (Englisch)](/assets/downloads/TaiChi36Form.pdf)  
-[Audioanleitung Einfach (Deutsch)](/assets/downloads/audio/TaiChiBasic.mp3)  [Audioanleitung Detailliert (Deutsch)](/assets/downloads/audio/TaiChiDetailed.mp3)
+Die 36er Tai Chi-Form ist eine Variante des traditionellen Yang-Stils. Die Form ist für Einsteiger konzipiert, leicht erlernbar und in kurzer Zeit zu durchlaufen. Gleichzeitig vermittelt sie die Grundideen und -bewegungen des Tai Chi. 
+
+#### Übungsblätter
+* [Deutsch](/assets/downloads/TaiChi36FormDt.pdf)  
+* [Englisch](/assets/downloads/TaiChi36Form.pdf)  
+
+#### Audioanleitungen (Deutsch)
+* [Nur die Form](/assets/downloads/audio/TaiChiBasic.mp3) 
+* [Form, Zwischenbewegungen und Schritte](/assets/downloads/audio/TaiChiDetailed.mp3)

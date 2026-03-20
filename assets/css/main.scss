@@ -56,6 +56,7 @@ $global-transition : none;
   text-rendering: auto;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  text-decoration: none;
 }
 
 $pdficon: '\f1c1';
@@ -67,8 +68,6 @@ $mp3icon: '\f025';
     color: #333;
     content: $pdficon;
     margin-right: 6px;
-    text-decoration: none;
-    list-style-type: none;
   }
 }
 
@@ -78,7 +77,5 @@ $mp3icon: '\f025';
     color: #333;
     content: $mp3icon;
     margin-right: 6px;
-    text-decoration: none;
-    list-style-type: none;
   }
 }
